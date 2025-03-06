@@ -1,0 +1,14 @@
+{
+    "name": "git-test",
+    "version": "1.0.0",
+    "description": "Git repo for educational purposes",
+    "main": "index.js",
+    "repository": "https://github.com:Sasha-860/git-extended.git",
+    "author": "Sasha-860 <Sashabelchug1@gmail.com>",
+    "license": "CC-BY-4.0",
+    "config": {
+        "commitizen": {
+            "path": "cz-conventional-changelog"
+        }
+    }
+}
